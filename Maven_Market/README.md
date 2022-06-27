@@ -3,7 +3,7 @@
 This dashboard was made using the Maven Market dataset, elaborated by [Maven Analytics](https://www.mavenanalytics.io/data-playground)
 
 ## Relationships
-
+![Relationships](https://github.com/tnorio/BI_Dashboards/blob/main/Maven_Market/relationships.png?raw=true)
 
 ## Monthly performance
 
